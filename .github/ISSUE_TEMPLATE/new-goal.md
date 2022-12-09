@@ -1,5 +1,5 @@
 ---
-name: "Grant Goal 🎯"des
+name: "Grant Goal 🎯"
 title:
 milestone:
 labels:
