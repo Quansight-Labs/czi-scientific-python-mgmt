@@ -1,7 +1,9 @@
 ---
+name: "Grant Goal 🎯"des
 title:
 milestone:
 labels:
+  - "type: mission 🎯"
 ---
 
 ## 📝 Summary
