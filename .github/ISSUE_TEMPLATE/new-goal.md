@@ -1,7 +1,7 @@
 ---
 name: "Grant Goal 🎯"
-title:
-milestone:
+about: Used for work packages or big goals.
+title: ''
 labels:
   - "type: mission 🎯"
 ---
