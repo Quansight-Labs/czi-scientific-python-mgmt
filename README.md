@@ -5,8 +5,9 @@
 
 🗃 Follow the progress on [our GitHub board](https://github.com/orgs/Quansight-Labs/projects/11?query=is%3Aopen+sort%3Aupdated-desc)
 
-This grant will support core Scientific Python projects by doing release management, writing documentation,
+This grant will support core [Scientific Python](https://scientific-python.org/) projects by doing release management, writing documentation,
 building and supporting joint infrastructure, and measuring and publishing metrics on community involvement and project health.
+This grant is funded through the [CZI - Essential Open Source Software for Science (EOSS) program](https://chanzuckerberg.com/eoss/).
 
 ## Working areas ⚙️
 
