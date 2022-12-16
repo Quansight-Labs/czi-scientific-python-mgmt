@@ -1,9 +1,9 @@
 ---
-name: "Grant Goal 🎯"
-about: Used for work packages or big goals.
+name: "Grant deliverable"
+about: Identified deliverable for the grant.
 title: ''
 labels:
-  - "type: mission 🎯"
+  - "type: deliverable 📦"
 ---
 
 ## 📝 Summary
