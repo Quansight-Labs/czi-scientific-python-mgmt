@@ -1,6 +1,9 @@
 ---
 name: Team sync template
+about: Team Sync Template
 title: Team sync - {Date}, 2024
+labels: ''
+assignees: ''
 ---
 
 Please take a moment to update the [Post PST A11y Audit](https://github.com/orgs/Quansight-Labs/projects/11/views/7) project board.
