@@ -2,8 +2,9 @@
 name: "✅ - New Task "
 about: Tasks are concrete actions to be taken.
 title: ''
-labels: 
-    - "type: task 📌"
+labels: "type: task \U0001F4CC"
+assignees: ''
+
 ---
 
 ## Summary

@@ -1,9 +1,10 @@
 ---
-name: "Grant deliverable"
+name: Grant deliverable
 about: Identified deliverable for the grant.
 title: ''
-labels:
-  - "type: deliverable 📦"
+labels: "type: deliverable \U0001F4E6"
+assignees: ''
+
 ---
 
 ## 📝 Summary

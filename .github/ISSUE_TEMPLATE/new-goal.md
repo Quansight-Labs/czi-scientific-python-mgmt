@@ -1,9 +1,10 @@
 ---
-name: "Grant Goal 🎯"
+name: "Grant Goal \U0001F3AF"
 about: Used for work packages or big goals.
 title: ''
-labels:
-  - "type: mission 🎯"
+labels: "type: mission \U0001F3AF"
+assignees: ''
+
 ---
 
 ## 📝 Summary
